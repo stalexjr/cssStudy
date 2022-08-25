@@ -75,8 +75,8 @@ accent-color 를 사용하면 커스터마이징이 넘나 어려웠던 HTML 요
 여기 배경색이 빨간색인 상자가 있다. 이젠 텍스트의 색상을 골라야 하는데.
 
 
-      .box{
-         background-color : red;
-         color: color-contrast(red);
-      }
+  .box{
+     background-color : red;
+     color: color-contrast(red);
+  }
 
